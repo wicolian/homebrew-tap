@@ -1,6 +1,6 @@
 cask "dev-on-call" do
-  version "0.1.1"
-  sha256 "ed104d211a07eac61932cedba51e2c0f02b53bb9f9b7a5a7444d8d1e92a128e9"
+  version "0.1.2"
+  sha256 "989a88feaa0d157af388547811ea9afdc6305a473d76ddbfb96cb01caa616c62"
 
   url "https://github.com/wicolian/dev-on-call/releases/download/v#{version}/Dev-On-Call-macOS.dmg"
   name "Dev On Call"
